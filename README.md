@@ -15,7 +15,7 @@ that could be used, for example, as crontab task
 ```python
 #!/usr/bin/env python
 
-from amestatus import status_sync
+from amestatus.run import status_sync
 
 if __name__ == '__main__':
 
