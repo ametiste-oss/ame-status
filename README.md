@@ -40,7 +40,7 @@ if __name__ == '__main__':
   
 ```
 
-See wiki pages ( _atm under construction, feel free to ask help via issues) and sections below for 
+See wiki pages _(atm under construction, feel free to ask help via issues)_ and sections below for 
 setup details and concrete services and sites configuration options.
 
 # Installation
