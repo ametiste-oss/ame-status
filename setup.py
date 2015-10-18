@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='amestatus',
-    version='0.1.0',
+    version='0.1.1',
     description="Status page integration toolkit, lightweight and flexy",
     long_description=open('README.md').read(),
     author="Ametiste-OSS",
