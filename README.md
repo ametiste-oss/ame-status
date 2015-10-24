@@ -4,6 +4,8 @@ Ame-status is toolkit to communicate with _status sites_ like [Staytus](https://
 Toolkit provides framework to sync your _services state_ and _status_ on a site, connectors to popular service platforms
 ([Spring Boot](https://github.com/spring-projects/spring-boot), etc.) and _status sites_ implementations.
 
+[![Codacy Badge](https://api.codacy.com/project/badge/739c72cb4f1e486e9bfc4c3674c1b77a)](https://www.codacy.com/app/Ametiste-OSS/ame-status)
+
 # At a Glance
 
 Amestatus library primarily designed to provide easy way to build status update middleware, library does not
