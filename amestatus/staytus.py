@@ -49,7 +49,7 @@ class StaytusServiceSite(StatusSite):
         self._state = None
 
     def in_state(self, state):
-        self.__state() in state
+        return self.__state() in state
 
     def to_state(self, state):
         if self.__state() != state:
